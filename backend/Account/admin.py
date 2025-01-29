@@ -4,4 +4,4 @@ from Account.models import Account
 
 
 
-admin.site.register(Account, UserAdmin) 
+admin.site.register(Account)
